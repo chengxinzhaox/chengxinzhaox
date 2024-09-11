@@ -7,7 +7,7 @@
 - 📑 I have BEng and BSc in Compuer Science, MA and MSc in Design.
 - 🤔 I’m looking for help with algorithm, machine learning, human machine inerface, interaction deisgn and industrial design.
 - 📫 Reach me through zchenxing2002@gmail.com
-- 🛜 Know me more through: [My Personal Website](https://chengxin.design)
+- 🛜 Know me more through: [My Personal Website](https://info.chengxin.design)
 
 ## 🔧 Tools
 
