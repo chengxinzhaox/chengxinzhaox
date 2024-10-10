@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About me
 - 🌱 I’m currently learning Design Engineering between Imperical Collage London and Royal Collage of Art in London.
-- 📑 I have BEng and BSc in Compuer Science, MA and MSc in Design.
+- 📑 BEng and BSc in Compuer Science, MA and MSc in Design.
 - 🤔 I’m looking for help with algorithm, machine learning, human machine inerface, interaction deisgn and industrial design.
-- 📫 Reach me through zchenxing2002@gmail.com
+- 📫 Reach me through zchenxing2002@gmail.com, chengxin.zhao24@imperial.ac.uk, 10044490@network.rca.ac.uk
 - 🛜 Know me more through: [My Personal Website](https://info.chengxin.design)
 
 ## 🔧 Tools
